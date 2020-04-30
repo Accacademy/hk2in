@@ -2,11 +2,11 @@
 # https://365a1.azurewebsites.net
 
 
-1 进入azure AD新建一个app，获取tenant id和client id
-![image.png](https://i.loli.net/2020/01/26/57GcEDYlQFTOMBL.png)
+1 进入azure AD新建一个app，获取(租户)tenant ID和(客户端)client ID
+![image.png](https://raw.githubusercontent.com/365a1/hk2in/master/png/id.png)
 
 2 新建一个client secret
-![image.png](https://i.loli.net/2020/01/26/qUeV2x8abHlDPO3.png)
+![image.png](https://raw.githubusercontent.com/365a1/hk2in/master/png/cer.png)
 
 3 获取订阅的 skuid，阅读：https://docs.microsoft.com/en-us/microsoftteams/sku-reference-edu
 
