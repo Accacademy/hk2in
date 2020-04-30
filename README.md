@@ -10,14 +10,14 @@
 
 3 获取订阅的 skuid，阅读：https://docs.microsoft.com/en-us/microsoftteams/sku-reference-edu
 
-![image.png](https://raw.githubusercontent.com/365a1/hk2in/master/001.png)
-![image.png](https://raw.githubusercontent.com/365a1/hk2in/master/002.png)
-![image.png](https://raw.githubusercontent.com/365a1/hk2in/master/003.png)
-![image.png](https://raw.githubusercontent.com/365a1/hk2in/master/ftp1.png)
-![image.png](https://raw.githubusercontent.com/365a1/hk2in/master/ftp2.png)
-![image.png](https://raw.githubusercontent.com/365a1/hk2in/master/004.png)
-![image.png](https://raw.githubusercontent.com/365a1/hk2in/master/005.png)
-![image.png](https://raw.githubusercontent.com/365a1/hk2in/master/006.png)
-![image.png](https://raw.githubusercontent.com/365a1/hk2in/master/007.png)
+![image.png](https://raw.githubusercontent.com/365a1/hk2in/master/png/001.png)
+![image.png](https://raw.githubusercontent.com/365a1/hk2in/master/png/002.png)
+![image.png](https://raw.githubusercontent.com/365a1/hk2in/master/png/003.png)
+![image.png](https://raw.githubusercontent.com/365a1/hk2in/master/png/ftp1.png)
+![image.png](https://raw.githubusercontent.com/365a1/hk2in/master/png/ftp2.png)
+![image.png](https://raw.githubusercontent.com/365a1/hk2in/master/png/004.png)
+![image.png](https://raw.githubusercontent.com/365a1/hk2in/master/png/005.png)
+![image.png](https://raw.githubusercontent.com/365a1/hk2in/master/png/006.png)
+![image.png](https://raw.githubusercontent.com/365a1/hk2in/master/png/007.png)
 
 
