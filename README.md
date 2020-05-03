@@ -13,7 +13,7 @@
 
 
 # 进入Azure创建WebApp步骤图
-![image.png](https://raw.githubusercontent.com/Accacademy/hk2in/master/png/001.png)
+![image.png](https://raw.githubusercontent.com/Accacademy/hk2in/blob/master/png/001.png)
 ![image.png](https://raw.githubusercontent.com/365a1/hk2in/master/png/002.png)
 ![image.png](https://raw.githubusercontent.com/365a1/hk2in/master/png/003.png)
 ![image.png](https://raw.githubusercontent.com/365a1/hk2in/master/png/ftp1.png)
